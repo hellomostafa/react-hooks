@@ -27,7 +27,7 @@ function App() {
     if(count !== 0){
       setCount(newCount)
     }else{
-      alert('You Can not go to the Negative')
+      alert('You Can not go to the Negative');
     }
   }
 
